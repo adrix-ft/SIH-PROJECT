@@ -1,0 +1,14 @@
+node_modules
+.next
+.env
+.env.local
+.turbo
+.vercel
+.DS_Store
+*.log
+architecture.md
+latency.md
+memory.md
+prd.md
+rules.md
+task.md
